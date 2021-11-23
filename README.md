@@ -1,6 +1,8 @@
 # Getting Started with Create React App
 <h1>This is simple React github user list app</h1>
-![](img\capture.png)
+
+![](img/capture.png)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
